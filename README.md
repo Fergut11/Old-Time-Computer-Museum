@@ -1,2 +1,2 @@
 # Old-Time-Computer-Museum
-Exercie 9 for HTML class
+Exercise 9 for HTML class
